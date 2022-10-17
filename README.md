@@ -11,15 +11,8 @@ A backers_df DataFrame was created with
 - 'cf_id'
 - 'name' and 
 - 'email' as columns. 
+
 The results are in input and output 58 from the above mentioned file. Finally for this deliverable, the backers_df Dataframe was exprted into [backer_info](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/backer_info.csv) as an cvs file 
-
-•	The alphanumeric "backer_id" string identification number is extracted without extra characters. 
-•	The numeric "cf_id" string identification number is extracted without extra characters. 
-•	The "name" string value is extracted without extra characters. (5 pt)
-•	The "email" string value is extracted without extra characters. (5 pt)
-•	A DataFrame is created with the following columns: "backer_id", "cf_id", "name", and "email". (5 pt)
-•	Each column in the DataFrame contains the appropriate data. (10 pt)
-
 
 ### Deliverable 2: Transform and Clean Data 
 •	The "cf_id" column is converted to int64. (5 pt)
