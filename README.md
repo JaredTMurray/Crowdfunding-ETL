@@ -11,7 +11,7 @@ A backers_df DataFrame was created with
 - 'cf_id'
 - 'name' and 
 - 'email' as columns. 
-The results are in input and output 58 from the above mentioned file. Finally for this deliverable, the backers_df Dataframe was exprted into [backer_info](#) as an cvs file 
+The results are in input and output 58 from the above mentioned file. Finally for this deliverable, the backers_df Dataframe was exprted into [backer_info](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/backer_info.csv) as an cvs file 
 
 •	The alphanumeric "backer_id" string identification number is extracted without extra characters. 
 •	The numeric "cf_id" string identification number is extracted without extra characters. 
