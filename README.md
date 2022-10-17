@@ -2,8 +2,14 @@
 ## Module 8 Challenge
 ### Deliverable 1: Extract Data 
 
-•	The alphanumeric "backer_id" string identification number is extracted without extra characters. (5 pt)
-•	The numeric "cf_id" string identification number is extracted without extra characters. (5 pt)
+In this file, [Extract-Transform_final_code](#) shows all the coding input and output for deliverable 1. 
+The following was done: 
+backers_info was imported as a Dataframe backers_master_df. Then I used a for loop to iterate through backers_master_df to print off the list of values 
+for each row and was placed into a dictionary.
+A backers_df DataFrame was created with the 'backer_id','cf_id', 'name', and 'email' as columns. The results are in input and output 58 from the 
+above mentioned file. 
+•	The alphanumeric "backer_id" string identification number is extracted without extra characters. 
+•	The numeric "cf_id" string identification number is extracted without extra characters. 
 •	The "name" string value is extracted without extra characters. (5 pt)
 •	The "email" string value is extracted without extra characters. (5 pt)
 •	A DataFrame is created with the following columns: "backer_id", "cf_id", "name", and "email". (5 pt)
