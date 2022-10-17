@@ -2,7 +2,7 @@
 ## Module 8 Challenge
 ### Deliverable 1: Extract Data 
 
-In this file, [Extract-Transform_final_code](#) shows all the coding input and output for deliverable 1. 
+In this file, [Extract-Transform_final_code](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb) shows all the coding input and output for deliverable 1. 
 The following was done: 
 backers_info was imported as a Dataframe backers_master_df. Then I used a for loop to iterate through backers_master_df to print off the list of values 
 for each row and was placed into a dictionary.
