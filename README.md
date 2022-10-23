@@ -44,4 +44,4 @@ The results are in input and output 58 from the above mentioned file. Finally fo
   ![](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Deliverable%204c.png)
   
 -	The fourth SQL query was written and then fully executed to create the email_backers_remaining_goal_amount table, and the table is exported into      [email_contacts_remaining_goal_amount.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv)
-![]()
+![](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Deliverable%204d.png)
