@@ -22,8 +22,12 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 
 ### Deliverable 3: Create an ERD and a Table Schema and Load the Data 
 - The crowdfunding_db relationship diagram has five tables, and can be seen as image 
+
 ![crowdfunding_db_relationships.png.](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png).
-•	The crowdfunding_db_schema.sql file contains the table schema and the ALTER TABLE statement for each of the five tables. (10 pt)
+
+
+- The [crowdfunding_db_schema.sql file](#)
+  contains the table schema and the ALTER TABLE statement for each of the five tables
 •	The backers.csv file is imported into the backers table without any errors. (5 pt)
 
 
