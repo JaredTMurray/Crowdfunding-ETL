@@ -1,6 +1,6 @@
 # Crowdfunding-ETL
 ## Module 8 Challenge
-### Deliverable 1: Extract Data 
+### Deliverable 1: Extract Data (Option 1)
 
 In this file, [Extract-Transform_final_code](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb) shows all the coding input and output for deliverable 1. 
 The following was done: 
