@@ -32,7 +32,7 @@ The results are in input and output 58 from the above mentioned file. Finally fo
   
   
 - The [backers.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/backers.csv) file. This image illustrates the code that is imported into backers csv file.
-![]()
+![](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Deliverable%203a.png)
 
 
 ### Deliverable 4: SQL Analysis—Bonus 
