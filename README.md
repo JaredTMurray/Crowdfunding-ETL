@@ -16,10 +16,8 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 
 ### Deliverable 2: Transform and Clean Data 
 - The "cf_id" column was converted to int64. This can be seen in Out[63] in [Extract-Transform_final_code](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb). 
-•	The "name" column is split into "first_name" and "last_name" columns that are added to the DataFrame. (10 pt)
-•	The "name" column is dropped from the DataFrame. (5 pt)
-•	The columns are reordered. (5 pt)
-•	The DataFrame is exported as backers.csv. (5 pt)
+- Then the "name" column is split into the "first_name" and the "last_name" columns that are added to In[64] of the aformentioned file. 
+- The "name" column is dropped from the DataFrame in In[66] and reflected in Out[66]. Then the columns are reordered and executed in the same Input and Output [66].
 
 
 ### Deliverable 3: Create an ERD and a Table Schema and Load the Data 
