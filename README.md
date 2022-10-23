@@ -31,7 +31,8 @@ The results are in input and output 58 from the above mentioned file. Finally fo
   The alt table consists of foreign keys which connects the tables subcategory_id, category_id, contract_id and cf_id, respectively to the above mentioned tables. 
   
   
-•	The backers.csv file is imported into the backers table without any errors. (5 pt)
+- The [backers.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/backers.csv) file. This image illustrates the code that is imported into backers csv file.
+![]()
 
 
 ### Deliverable 4: SQL Analysis—Bonus 
