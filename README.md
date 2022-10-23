@@ -36,7 +36,7 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 
 
 ### Deliverable 4: SQL Analysis—Bonus 
-- A SQL query is written and successfully executed that retrieves the number of backer_counts in descending order for each cf_id and for all the live campaigns. This can be viewed in the file [bonus file](#). 
+- A SQL query is written and successfully executed that retrieves the number of backer_counts in descending order for each cf_id and for all the live campaigns. This can be viewed in the file [bonus file](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql). 
 ![]()
 - A SQL query is written and successfully executed that retrieves the number of backers in descending order for each cf_id from the backers table. (2.5 pt)
 •	A SQL query is written and successfully executed to create the email_contacts_remaining_goal_amount table, and the table is exported as email_contacts_remaining_goal_amount.csv. (5 pt)
