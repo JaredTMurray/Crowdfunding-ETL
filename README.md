@@ -45,3 +45,6 @@ The results are in input and output 58 from the above mentioned file. Finally fo
   
 -	The fourth SQL query was written and then fully executed to create the email_backers_remaining_goal_amount table, and the table is exported into      [email_contacts_remaining_goal_amount.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv)
 ![](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Deliverable%204d.png)
+
+
+Please note in order to copy or export a table from PostgresSQL I had to add permission to the folder in order for it to work. This can be seen in the final code of the  [Analysis-Bonus file](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql). 
