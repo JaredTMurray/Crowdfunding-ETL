@@ -27,7 +27,8 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 
 
 - The [crowdfunding_db_schema.sql file](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_db_table_schema.sql)
-  contains the table schema and the ALTER TABLE statement for each of the five tables. The five tables are campaign, category, subcategorty, contracts and backers.
+  contains the table schema and the ALTER TABLE statement for each of the five tables. The five tables are campaign, category, subcategorty, contracts and backers. 
+  The alt table consists of foreign keys which connects the tables subcategory_id, category_id, contract_id and cf_id, respectively to the above mentioned tables. 
   
   
 •	The backers.csv file is imported into the backers table without any errors. (5 pt)
