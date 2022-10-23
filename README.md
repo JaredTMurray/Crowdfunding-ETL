@@ -15,7 +15,7 @@ A backers_df DataFrame was created with
 The results are in input and output 58 from the above mentioned file. Finally for this deliverable, the backers_df Dataframe was exprted into [backer_info](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/backer_info.csv) as an cvs file 
 
 ### Deliverable 2: Transform and Clean Data 
-•	The "cf_id" column is converted to int64. (5 pt)
+- The "cf_id" column was converted to int64. This can be seen in Out[63] in [Extract-Transform_final_code](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb). 
 •	The "name" column is split into "first_name" and "last_name" columns that are added to the DataFrame. (10 pt)
 •	The "name" column is dropped from the DataFrame. (5 pt)
 •	The columns are reordered. (5 pt)
