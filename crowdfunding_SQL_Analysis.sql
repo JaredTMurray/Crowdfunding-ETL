@@ -38,4 +38,4 @@ order by ba.email desc;
 -- Check the table
 
 Select * FROM email_backers_remaining_goal_amount;
-
+COPY email_backers_remaining_goal_amount TO 'C:\Users\Jared\Module 8\email_backers_remaining_goal_amount.csv'  WITH DELIMITER ',' CSV HEADER;
