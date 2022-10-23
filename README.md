@@ -26,8 +26,10 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 ![crowdfunding_db_relationships.png.](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png).
 
 
-- The [crowdfunding_db_schema.sql file](#)
-  contains the table schema and the ALTER TABLE statement for each of the five tables
+- The [crowdfunding_db_schema.sql file](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/crowdfunding_db_table_schema.sql)
+  contains the table schema and the ALTER TABLE statement for each of the five tables. The five tables are campaign, category, subcategorty, contracts and backers.
+  
+  
 •	The backers.csv file is imported into the backers table without any errors. (5 pt)
 
 
