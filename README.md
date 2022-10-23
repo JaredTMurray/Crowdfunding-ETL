@@ -40,8 +40,8 @@ The results are in input and output 58 from the above mentioned file. Finally fo
 
 - The second SQL query was written and retrieves sucessfully the number of backers in descending order for each cf_id from the backers table. This can be view in the     same file above.
 
--	The third SQL query was written and produced the table "contacts_live" to create the email_contacts_remaining_goal_amount table, and the table was exported into         [email_contacts_remaining_goal_amount.csv]().The following image illustrtes the running of the table in PostgresSQL
+-	The third SQL query was written and produced the table "contacts_live" to create the email_contacts_remaining_goal_amount table, and the table was exported into         [email_contacts_remaining_goal_amount.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv).The following image   illustrtes the running of the table in PostgresSQL
   ![](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/Deliverable%204c.png)
   
--	The fourth SQL query was written and then fully executed to create the email_backers_remaining_goal_amount table, and the table is exported into      [email_contacts_remaining_goal_amount.csv]()
+-	The fourth SQL query was written and then fully executed to create the email_backers_remaining_goal_amount table, and the table is exported into      [email_contacts_remaining_goal_amount.csv](https://github.com/JaredTMurray/Crowdfunding-ETL/blob/main/email_backers_remaining_goal_amount.csv)
 ![]()
